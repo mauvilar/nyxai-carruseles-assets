@@ -1,0 +1,344 @@
+id,title,publish_date,status,ig_caption,fb_caption,tw_text_1,tw_text_2,slide_urls,ig_post_id,fb_post_id,tw_post_id,published_at
+C11,Crea tu primer Claude Skill paso a paso,2026-06-08,ready,"Tu Claude se queda en el 10% si no le enseñas habilidades 🧠
+
+Un Skill = una capacidad que le enseñas UNA vez. La usa siempre que aplique.
+
+Es solo una carpeta con un markdown adentro. Sí. Tan simple.
+
+01 · Anatomía → SKILL.md + archivos opcionales
+02 · Frontmatter → name + description (lo que decide cuándo se activa)
+03 · Ejemplo real → review-pr (audita PRs automático)
+04 · Ejemplo real → generate-changelog (commits → release notes)
+05 · Install → /plugin add ./mi-skill
+
+Desliza ▶️ y guarda este post para tu primer build.
+
+¿Cuál skill harías primero? 👇
+
+#ClaudeAI #AnthropicClaude #ClaudeSkills #IAaplicada #AutomatizacionDevs #ClaudeCode #NoCode #FreelanceTech #ProductividadIA #NyxAIStudio #IAparapymes","Tu Claude se queda en el 10% si no le enseñas habilidades.
+
+Un Skill es una capacidad que le enseñas UNA vez a Claude y la usa siempre que aplique. Lo mejor: es solo una carpeta con un markdown adentro.
+
+En este carrusel te muestro:
+
+• La anatomía de un Skill (SKILL.md + archivos opcionales)
+• Cómo escribir un frontmatter que sí se active
+• Dos ejemplos reales que puedes copiar (review-pr y generate-changelog)
+• Cómo instalarlo en 1 comando
+
+Si sabes hacer copy-paste, sabes hacer un Skill.
+
+¿Cuál harías tú primero? Cuéntame en los comentarios 👇
+
+#ClaudeAI #IAaplicada",,,"https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c11/slide-01.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c11/slide-02.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c11/slide-03.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c11/slide-04.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c11/slide-05.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c11/slide-06.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c11/slide-07.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c11/slide-08.png",,,,
+C12,Claude Code en 5 min: automatiza tu terminal,2026-06-10,ready,"ChatGPT lee tu terminal. Claude Code la opera 💻
+
+Esto es lo que ChatGPT no puede: editar archivos, commitear, ejecutar tests, aprender tu repo.
+
+Y es GRATIS.
+
+01 · Install (1 línea de curl)
+02 · /init → aprende tu repo en 30 seg
+03 · /plan → diseña antes de tocar código
+04 · /commit → genera mensaje + commitea
+05 · Hooks → reglas que no se brinca
+06 · Plan vs Auto → control vs velocidad
+
+Recuperas ~10 hrs/semana. Sin tarjeta. Sin trial.
+
+Desliza ▶️ y guarda el post.
+
+¿Lo has probado? 👇
+
+#ClaudeCode #ClaudeAI #DevTools #IAparaProgramadores #AutomatizacionDevs #FreelanceTech #ProductividadIA #NoCode #AnthropicClaude #NyxAIStudio","ChatGPT lee tu terminal. Claude Code la opera.
+
+Esa es la diferencia. ChatGPT te dicta lo que tienes que escribir. Claude Code lo escribe por ti, ejecuta los tests, y commitea cuando todo pasa.
+
+Y es 100% gratis. Sin tarjeta. Sin trial.
+
+En este carrusel:
+- Cómo instalarlo en una línea
+- Los 3 comandos que cambian el día (/init, /plan, /commit)
+- Cómo configurar hooks para que no se brinque pasos
+- Cuándo usar Plan mode vs Auto mode
+
+Recuperas alrededor de 10 horas por semana de teclear cosas repetitivas.
+
+¿Lo has probado? Cuéntame qué te ha tocado automatizar.
+
+#ClaudeCode #IAaplicada",,,"https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c12/slide-01.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c12/slide-02.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c12/slide-03.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c12/slide-04.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c12/slide-05.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c12/slide-06.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c12/slide-07.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c12/slide-08.png",,,,
+C13,7 MCP servers que cambian la jugada,2026-06-12,ready,"Claude tiene el cerebro 🧠 — MCP le pone las manos 🛠️
+
+Sin MCP, Claude responde. Con MCP, hace cosas en tu sistema.
+
+Estos 7 son los que tienen que estar en tu stack ahora:
+
+01 · Filesystem → lee y edita archivos locales
+02 · Slack → lee canales, responde, busca histórico
+03 · Linear/GitHub → crea issues, cierra PRs con prompt
+04 · Browser (Playwright) → scrapea sin API
+05 · Postgres → query en lenguaje natural
+06 · Custom MCP → expone tools de tu propia API
+07 · Memory (Mem0) → Claude recuerda entre sesiones
+
+Desliza ▶️ y guarda los nombres.
+
+¿Cuál instalas hoy? 👇
+
+#MCP #ClaudeAI #AnthropicClaude #IAaplicada #DevTools #Automatizacion #AgentesIA #NoCode #ClaudeCode #NyxAIStudio","Claude tiene el cerebro. MCP le pone las manos.
+
+Sin MCP, Claude solo te responde. Con MCP, hace cosas reales en tu sistema: lee tus archivos, contesta Slacks, cierra issues, scrapea sitios, consulta tu base de datos.
+
+Estos 7 MCP servers son los que tienen que estar en tu stack hoy:
+
+1. Filesystem
+2. Slack
+3. Linear / GitHub
+4. Browser (Playwright)
+5. Postgres
+6. Custom MCP (para tu API interna)
+7. Memory (Mem0)
+
+¿Cuál instalas primero? Comenta el nombre y te paso la config que estoy usando.
+
+#MCP #ClaudeAI",,,"https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c13/slide-01.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c13/slide-02.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c13/slide-03.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c13/slide-04.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c13/slide-05.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c13/slide-06.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c13/slide-07.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c13/slide-08.png",,,,
+C14,Subagentes paralelos: el 10x para investigar,2026-06-15,ready,"Un Claude buscando: 30 min. Diez Claudes investigando: 3 min ⚡
+
+Subagentes paralelos = el 10x cuando la tarea se puede partir.
+
+Cada subagente tiene su propio contexto. No se contaminan entre sí.
+
+01 · Cuándo paralelizar → tareas independientes + resultado agregable
+02 · Cómo → lanza N tasks en el mismo turno (Claude los corre en paralelo)
+03 · Caso real → auditar 8 PRs antes del release (32 min → 5 min)
+04 · Caso real → comparar 5 SaaS (matriz lista en 7 min)
+05 · Anti-patrón → NO paralelices si la tarea 2 espera a la 1
+
+Desliza ▶️ y guarda el truco.
+
+¿Qué tarea paralelizarías hoy? 👇
+
+#ClaudeAI #AnthropicClaude #Subagentes #ClaudeCode #IAaplicada #AgentesIA #ProductividadIA #DevTools #NoCode #NyxAIStudio","Un Claude buscando tarda 30 minutos. Diez Claudes investigando en paralelo tardan 3.
+
+El truco se llama ""subagentes paralelos"" y es uno de los 10x menos usados de Claude Code.
+
+Funciona así: en un mismo mensaje le pides N tareas independientes, y Claude las ejecuta en paralelo. Cada subagente trabaja con su propio contexto, así que no se contaminan.
+
+Cuándo sí paralelizar:
+- Tareas independientes entre sí
+- Resultado agregable (lista, tabla, comparativa)
+
+Cuándo NO:
+- Si la tarea 2 espera a la 1, no paraleles
+
+¿Qué tarea repetitiva paralelizarías esta semana? Cuéntame y te respondo cómo.
+
+#ClaudeAI #Subagentes",,,"https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c14/slide-01.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c14/slide-02.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c14/slide-03.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c14/slide-04.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c14/slide-05.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c14/slide-06.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c14/slide-07.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c14/slide-08.png",,,,
+C15,Hooks: que Claude no se brinque pasos,2026-06-17,ready,"Hooks = reglas que Claude NO puede saltarse 🔒
+
+Tú no le recuerdas que corra los tests. El hook lo hace por ti.
+
+Sin hooks: dices ""corre los tests"" 10 veces al día.
+Con hooks: cero recordatorios.
+
+01 · PostToolUse → después de cada Edit, corre tests
+02 · Stop → bloquea cierre si hay cambios sin commitear
+03 · UserPromptSubmit → auto-carga README al contexto cada turno
+04 · SessionStart → carga tu working memory al iniciar
+
+Configuración: .claude/settings.json (JSON simple)
+
+Desliza ▶️ y guarda el JSON que necesites.
+
+¿Cuál hook te falta hoy? 👇
+
+#ClaudeCode #Hooks #ClaudeAI #AnthropicClaude #DevTools #AutomatizacionDevs #IAparaProgramadores #FreelanceTech #ProductividadIA #NyxAIStudio","Hooks: reglas que Claude no puede saltarse.
+
+Sin hooks, le recuerdas que corra los tests 10 veces al día. Con hooks, se ejecutan solos antes o después de cada acción.
+
+4 tipos que importan:
+
+- PostToolUse: después de cada Edit, corre `npm test`
+- Stop: bloquea el cierre si hay cambios sin commitear
+- UserPromptSubmit: auto-carga README al contexto cada turno
+- SessionStart: carga tu working memory al iniciar
+
+Todo se configura en `.claude/settings.json` con JSON simple. En el carrusel te muestro cada caso con el snippet exacto.
+
+¿Cuál hook te falta? Comenta y te paso el JSON.
+
+#ClaudeCode #Hooks",,,"https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c15/slide-01.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c15/slide-02.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c15/slide-03.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c15/slide-04.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c15/slide-05.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c15/slide-06.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c15/slide-07.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c15/slide-08.png",,,,
+C16,Slash commands custom: tu IDE más rápido,2026-06-19,ready,"/comando = 1 atajo que ahorra 5 prompts ⚡
+
+Slash commands custom: funciones que TÚ defines, Claude las ejecuta.
+
+Cero typos. Cero ""ya te lo había explicado"". Cero contexto repetido.
+
+01 · Anatomía → .claude/commands/<name>.md
+02 · /review → audita los cambios staged en 4 pasos
+03 · /ship → tests + commit + push + notify Slack
+04 · /standup → ""ayer/hoy/blockers"" desde git log de 24h
+05 · $ARGUMENTS → pasa argumentos dinámicos (/debug auth-service)
+
+Cada slash command es solo 1 markdown.
+
+Desliza ▶️ y arma los tuyos.
+
+¿Cuál te hace falta? 👇
+
+#ClaudeCode #SlashCommands #ClaudeAI #AnthropicClaude #DevTools #ProductividadIA #IAparaProgramadores #FreelanceTech #NoCode #NyxAIStudio","Un slash command custom = un atajo que ahorra 5 prompts.
+
+Cero typos. Cero ""ya te lo había explicado"". Cero contexto repetido.
+
+En el carrusel te dejo 3 que uso todos los días:
+
+- /review → audita los cambios staged (tests, secrets, naming)
+- /ship → corre tests, commitea, pushea y notifica al canal
+- /standup → genera el ""ayer/hoy/blockers"" desde git log de las últimas 24h
+
+Bonus: argumentos dinámicos con $ARGUMENTS para comandos como `/debug auth-service`.
+
+Cada slash command es 1 archivo markdown en `.claude/commands/`.
+
+¿Cuál te hace falta? Comenta tu idea y te paso el .md.
+
+#ClaudeCode #SlashCommands",,,"https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c16/slide-01.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c16/slide-02.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c16/slide-03.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c16/slide-04.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c16/slide-05.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c16/slide-06.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c16/slide-07.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c16/slide-08.png",,,,
+C17,Claude Projects: tu memoria persistente,2026-06-22,ready,"Cada chat olvida todo. Projects no 📁
+
+Un Project = workspace con archivos y prompts base que Claude conoce SIEMPRE.
+
+01 · Chat normal vs Project → repites contexto VS Claude parte de tu base
+02 · Qué SÍ pones → marca, plantillas, docs internas, prompts base
+03 · Qué NO pones → tokens, datos sin NDA, PII, info sensible
+04 · Caso real → ""Project cliente Acme"" con 4 archivos clave
+05 · Regla de oro → 1 Project POR CLIENTE, no por tema
+
+Si tienes 5 clientes, 5 Projects. No ""todo-mi-trabajo"".
+
+Desliza ▶️ y arma los tuyos.
+
+¿Cuántos projects activos tienes? 👇
+
+#ClaudeAI #ClaudeProjects #AnthropicClaude #IAaplicada #ProductividadIA #Freelance #Consultoria #NoCode #IAparaPymes #NyxAIStudio","Cada chat con Claude olvida todo. Los Projects no.
+
+Un Project es un workspace con archivos y prompts base que Claude conoce siempre. Tu marca, tu cliente, tus plantillas, tu historial de decisiones.
+
+En el carrusel:
+
+- Diferencia entre chat normal y Project
+- Qué SÍ pones (marca, plantillas, docs internas)
+- Qué NO pones (tokens, datos sin NDA, PII)
+- Caso real: cómo armo un Project por cliente
+- Regla de oro: 1 Project por cliente, no por tema
+
+Si tienes 5 clientes, son 5 Projects. No uno gigante de ""todo-mi-trabajo"".
+
+¿Cuántos Projects activos tienes? Cuéntame.
+
+#ClaudeAI #ClaudeProjects",,,"https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c17/slide-01.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c17/slide-02.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c17/slide-03.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c17/slide-04.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c17/slide-05.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c17/slide-06.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c17/slide-07.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c17/slide-08.png",,,,
+C18,Plan mode vs Auto: cuándo cada uno,2026-06-24,ready,"Plan vs Auto: no es velocidad. Es CONTROL ⚖️
+
+🎯 Plan mode → te muestra el plan completo antes de tocar nada
+⚡ Auto mode → decide y avanza, sin checkpoints
+
+Cuándo Plan:
+→ Cambios en producción
+→ Refactor multi-archivo
+→ No sabes el alcance real
+
+Cuándo Auto:
+→ Tareas conocidas y repetidas
+→ Scripts experimentales
+→ Confías en el output
+
+Decision tree adentro 👀
+
+Anti-patrón clásico: Auto en producción sin tests = rollback a las 2 AM.
+
+Estrategia que funciona: empieza en Plan, cambia a Auto cuando confíes.
+
+Desliza ▶️ y guarda el árbol.
+
+¿Cuál usas más? 👇
+
+#ClaudeCode #ClaudeAI #AnthropicClaude #PlanMode #DevTools #IAparaProgramadores #AutomatizacionDevs #ProductividadIA #FreelanceTech #NyxAIStudio","Plan mode vs Auto mode: no es velocidad. Es control.
+
+Plan mode te muestra el plan completo antes de tocar nada. Lo usas cuando hay riesgo (producción, refactor grande, alcance incierto).
+
+Auto mode decide y avanza sin checkpoints. Lo usas cuando la tarea es conocida y repetida, o cuando confías en el output.
+
+Anti-patrón clásico: Auto en producción sin tests. El final es rollback a las 2 AM.
+
+La estrategia que sirve: empieza en Plan, cambia a Auto cuando Claude te demuestre que entiende.
+
+¿Cuál usas más? Comenta y te digo si tiene sentido para tu caso.
+
+#ClaudeCode #PlanMode",,,"https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c18/slide-01.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c18/slide-02.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c18/slide-03.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c18/slide-04.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c18/slide-05.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c18/slide-06.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c18/slide-07.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c18/slide-08.png",,,,
+C19,Caso real: automatizamos una PyME con Claude,2026-06-26,ready,"PyME mexicana · 12 empleados · 32 hrs/semana recuperadas ⏱️
+
+Caso real. Servicios B2B. Antes: 3 personas medio-tiempo solo en correos y cotizaciones.
+
+01 · Antes → 3 personas en correo, cotizaciones a 48-72h, follow-ups olvidados
+02 · Después → 1 persona + Claude, cotización en 6 min, dashboard semanal
+03 · Stack → Claude + n8n + WhatsApp Business API
+04 · ROI → $48k MXN/mes ahorrados (sin contar deals nuevos)
+05 · 4 procesos automatizados → cotizaciones, follow-up, reporting, onboarding
+06 · 3 aprendizajes que casi fallan → human-in-the-loop, rate limits, miedo del equipo
+
+Desliza ▶️ y guarda el caso.
+
+¿Tu PyME tiene un cuello así? DM 'AUDITORÍA' y te digo cómo en 15 min, gratis 👇
+
+#CasoReal #ClaudeAI #AutomatizacionPyME #IAaplicada #B2BMexico #PymeMX #ConsultoriaIA #n8n #WhatsAppBusiness #NyxAIStudio","Caso real: automatizamos una PyME mexicana con Claude. Resultado: 32 horas a la semana recuperadas.
+
+El cliente: 12 empleados, servicios B2B. Antes tenían 3 personas medio-tiempo solo gestionando correos y cotizaciones.
+
+Después:
+- 1 persona + Claude
+- Cotizaciones en 6 minutos (vs 48-72 horas)
+- Follow-up automático cuando no responden
+- Dashboard semanal cada lunes
+- $48,000 MXN al mes ahorrados (sin contar deals nuevos que cerramos)
+
+Stack: Claude API + n8n + WhatsApp Business API.
+
+En el carrusel te dejo los 4 procesos automatizados y los 3 aprendizajes que casi me hacen meter la pata.
+
+¿Tu PyME tiene un cuello así? DM 'AUDITORÍA' y te digo cómo en 15 minutos, gratis.
+
+#CasoReal #AutomatizacionPyME",,,"https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c19/slide-01.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c19/slide-02.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c19/slide-03.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c19/slide-04.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c19/slide-05.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c19/slide-06.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c19/slide-07.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c19/slide-08.png",,,,
+C20,Tu primer agente: del prompt al deploy,2026-06-29,ready,"Chatbot RESPONDE. Agente HACE COSAS 🤖
+
+Tu primer agente está a 1 fin de semana de existir. 4 pasos:
+
+01 · Define el job → en 1 frase clara (no ""ayúdame con email"" 🙅)
+02 · Stack mínimo → Claude API + 2-3 tools + un trigger (no 20 tools)
+03 · El loop → while not done: claude → tool_use → ejecutar → repeat
+04 · Deploy → vercel/railway/fly.io (donde sea, no importa)
+
+Tip que NADIE dice: empieza SIN memoria. Agrégala cuando duela.
+Memoria temprana = bugs + complejidad extra.
+
+Template adentro de los slides 👀
+
+Desliza ▶️ y guarda el roadmap.
+
+Comenta 'AGENTE' 👇 y te paso el template para arrancar.
+
+#AgentesIA #ClaudeAI #AnthropicClaude #BuildInPublic #IAaplicada #ClaudeAPI #DevTools #NoCode #AutomatizacionDevs #NyxAIStudio","Chatbot responde. Agente hace cosas.
+
+Tu primer agente está a un fin de semana de existir. Solo 4 pasos:
+
+1. Define el job en una frase clara. ""Lee mi inbox, redacta drafts a leads, espera mi OK, envía"" sirve. ""Ayúdame con email"" no.
+
+2. Stack mínimo: Claude API + 2-3 tools + un trigger (webhook, cron, botón). No 20 tools desde el día 1.
+
+3. El loop: while not done, llamas a Claude, si responde tool_use ejecutas tools, si no terminas.
+
+4. Deploy: Vercel, Railway, Fly.io, Replit. Donde sea. No importa.
+
+Tip que casi nadie dice: empieza SIN memoria. Agrégala cuando duela. Memoria temprana = bugs y complejidad innecesaria.
+
+¿Quieres el template para arrancar? Comenta ""AGENTE"" 👇 y te lo paso.
+
+#AgentesIA #ClaudeAI",,,"https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c20/slide-01.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c20/slide-02.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c20/slide-03.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c20/slide-04.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c20/slide-05.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c20/slide-06.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c20/slide-07.png,https://raw.githubusercontent.com/mauvilar/nyxai-carruseles-assets/main/c20/slide-08.png",,,,
